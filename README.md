@@ -6,9 +6,9 @@ This project explores quantum error correction and stabilizer codes through the 
 Starter code can be found in the original repo: https://github.com/abdullahkhalids/qecft
 
 ## About me
-Hi there, I’m Lutfa Rahman, an MSc Physics student at Jahangirnagar University, Bangladesh. What began as a quarantine hobby—delving into quantum computing—has grown into a focused pursuit. In 2020–2021, I completed The Coding School’s Introduction to Quantum Computing course, then joined QWorld’s workshops QBronze (2021) and QSilver (2022) and the QIntern '22 internship. More recently, I’ve been studying quantum error correction and stabilizer codes. In addition to these interests, my academic research focuses on nonlinear dynamics in plasma physics. I have one published paper, with several works in progress. If you’re interested, you can view my paper here: https://doi.org/10.1063/5.0299945.
+Hi there, I’m Lutfa Rahman, an MSc Physics student at Jahangirnagar University, Bangladesh. What began as a quarantine hobby—delving into quantum computing—has grown into a focused pursuit. In 2020–2021, I completed The Coding School’s Introduction to Quantum Computing course, then joined QWorld’s workshops QBronze (2021) and QSilver (2022) and the QIntern '22 internship. More recently, I’ve been studying quantum error correction and stabilizer codes. In addition to these interests, my academic research focuses on nonlinear dynamics in plasma physics. I have one published paper, with several works in progress. You may find my research works here: https://orcid.org/0009-0000-5238-1798.
 
-## Tools  
+## Programming languages  
 Python and Qiskit are used to solve codes.  
 
 
